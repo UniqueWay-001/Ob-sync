@@ -5,13 +5,11 @@
 I can name, draw, and label basic parts of geometry.  
 
 ---
-
 ### 🔵 Point  
 Names a **location** and has **no size.**  
 
-![[Point Graph.png]]  $Point A$ or $A$.
+![[Point Graph.png]]  $Point$ $A$ or $A$.
 ___
-
 ### 🟢 Line  
 A **straight path** that has **no thickness** and **never ends.**
 ![[Line Graph.png]]
@@ -22,7 +20,8 @@ ___
 ### 🟣 Plane  
 A **flat surface** that has **no thickness** and **extends forever.**  
 ![[Plane Graph.png]] 
-- Name **3** points that **aren't collinear**: $Plane$ $ABD$
+- Name ***3*** points that ***aren't collinear***: $Plane$ $ABD$
+- *Capital cursive* letter in a corner: $Plane$ $\mathcal{R}$.
 
 ---
 
