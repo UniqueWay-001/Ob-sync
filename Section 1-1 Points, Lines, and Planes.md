@@ -7,14 +7,18 @@ I can name, draw, and label basic parts of geometry.
 ---
 
 ### 🔵 Point  
-Names a **location** and has no size.  
+Names a **location** and has **no size.**  
 
-![[Point Graph.png]]
+![[Point Graph.png]] Point $A$ or $A$.
+___
 
-Point A
 ### 🟢 Line  
-A straight path that has no thickness and never ends.  
+A **straight path** that has **no thickness** and **never ends.**
+![[Pasted image 20250915172811.png]]  
+-Lower case and cursive 
+(3,4) {label:"$\mathit{P}$"}
 
+___
 ### 🟣 Plane  
 A flat surface that has no thickness and extends forever.  
 
