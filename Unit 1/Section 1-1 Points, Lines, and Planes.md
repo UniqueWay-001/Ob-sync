@@ -1,4 +1,4 @@
-![[Segment Graph.png]]# 📐 Geometry Notes
+# 📐 Geometry Notes
 
 ## Section 1-1: Points, Lines, and Planes  
 
@@ -37,6 +37,8 @@ I can **name, draw, and label basic parts of geometry.**
   - Capital cursive letter in a corner: $Plane$ $\mathcal{R}$
 
 ---
+
+___
 
 ### Collinear  
 - **Definition:** Points that lie on the **same line**  
@@ -87,3 +89,4 @@ I can **name, draw, and label basic parts of geometry.**
 > 💡 **Tip:** Postulates are like **building blocks** for geometry—they don’t need proof, but everything else relies on them.  
 
 ---
+![[Plane ,Line, Ray, Opposite Ray, Point, Endpoint, Segment Graph.png]]
