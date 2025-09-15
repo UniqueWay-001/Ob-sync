@@ -8,7 +8,7 @@ I can name, draw, and label basic parts of geometry.
 
 ### 🔵 Point  
 Names a location and has no size.  
-
+![[Point Graph.png]]
 ### 🟢 Line  
 A straight path that has no thickness and never ends.  
 
