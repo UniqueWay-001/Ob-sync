@@ -1,4 +1,4 @@
-# 📐 Geometry Notes
+![[Segment Graph.png]]# 📐 Geometry Notes
 
 ## Section 1-1: Points, Lines, and Planes  
 
@@ -46,3 +46,42 @@ I can **name, draw, and label basic parts of geometry.**
 
 ---
 
+---
+
+### 🔹 Segment  
+- **Definition:** Part of a line consisting of **two endpoints**  
+
+![[Segment Graph.png]]  
+- **Notation:** $\overline{AB}$ for the segment from **A** to **B** .
+
+---
+
+### 🔸 Endpoint  
+- **Definition:** A **point** at **one end** of a segment or ray  
+
+![[Endpoint Graph.png]]  
+
+---
+
+### 🔹 Ray  
+- **Definition:** Part of a line that **starts at an endpoint** and **extends infinitely in one direction**  
+
+![[Ray Graph.png]]  
+- **Notation:** `$ \overrightarrow{AB} $` → starts at **A**, goes through **B**  
+
+---
+
+### 🔸 Opposite Rays  
+- **Definition:** Two rays that share a **common endpoint** and form a **line**  
+
+![[Opposite Rays Graph.png]]  
+- Example: `$ \overrightarrow{AB} $` and `$ \overrightarrow{AC} $` with **common endpoint A**  
+
+---
+
+### 📌 Postulate  
+- **Definition:** A **statement accepted as true without proof**  
+
+> 💡 **Tip:** Postulates are like **building blocks** for geometry—they don’t need proof, but everything else relies on them.  
+
+---
