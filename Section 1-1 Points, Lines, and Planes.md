@@ -1,22 +1,24 @@
-> **Learning Goal**  
-> I can name, draw, and label basic parts of geometry.  
+# Geometry Notes  
+## Section 1-1: Points, Lines, and Planes  
 
-### Definitions  
+### 📘 Learning Goal  
+I can name, draw, and label basic parts of geometry.  
 
-- **Point**  
-  - Names a location and has no size.  
-  
+---
 
-- **Line**  
-  - A straight path that has no thickness and never ends.  
+### 🔵 Point  
+Names a location and has no size.  
 
-- **Plane**  
-  - A flat surface that has no thickness and extends forever.  
+### 🟢 Line  
+A straight path that has no thickness and never ends.  
 
-### Relationships  
+### 🟣 Plane  
+A flat surface that has no thickness and extends forever.  
 
-- **Collinear**  
-  - Points that lie on the same line.  
+---
 
-- **Coplanar**  
-  - Points that lie on the same plane.  
+### 🟡 Collinear  
+Points that lie on the same line.  
+
+### 🟠 Coplanar  
+Points that lie on the same plane.  
