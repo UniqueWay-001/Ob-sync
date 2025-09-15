@@ -59,7 +59,9 @@ I can **name, draw, and label basic parts of geometry.**
 ### 🔸 Endpoint  
 - **Definition:** A **point** at **one end** of a segment or ray  
 
-![[Endpoint Graph.png]]  
+![[Endpoint Graph.png]]
+
+**Notations**: Same as naming a Point, $Point$ $A$.
 
 ---
 
@@ -67,7 +69,7 @@ I can **name, draw, and label basic parts of geometry.**
 - **Definition:** Part of a line that **starts at an endpoint** and **extends infinitely in one direction**  
 
 ![[Ray Graph.png]]  
-- **Notation:** `$ \overrightarrow{AB} $` → starts at **A**, goes through **B**  
+- **Notation:** $\overrightarrow{AB}$ → starts at **A**, goes through **B**  
 
 ---
 
