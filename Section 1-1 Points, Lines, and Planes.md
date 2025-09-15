@@ -15,12 +15,12 @@ ___
 ### 🟢 Line  
 A **straight path** that has **no thickness** and **never ends.**
 ![[Pasted image 20250915172811.png]]  
--Lower case and cursive 
-(3,4) {label:"$\mathit{P}$"}
+- **Lower Case** and cursive: line $\mathcal{l}$.
+- Two points with line on top: $\overleftrightarrow{AB}$.
 
 ___
 ### 🟣 Plane  
-A flat surface that has no thickness and extends forever.  
+A **flat surface** that has **no thickness** and **extends forever.**  
 
 ---
 
