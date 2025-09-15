@@ -12,7 +12,7 @@ I can **name, draw, and label basic parts of geometry.**
 - **Property:** Has **no size**  
 
 ![[Point Graph.png]]  
-- LaTeX: `$Point$ $A$` or just `$A$`.
+- LaTeX: $Point$ $A$ or just $A$.
 
 ---
 
@@ -21,8 +21,8 @@ I can **name, draw, and label basic parts of geometry.**
 
 ![[Line Graph.png]]  
 - **Naming a line:**  
-  - Lowercase cursive: `$\mathcal{l}$`  
-  - Two points with line on top: `$\overleftrightarrow{AB}$`
+  - Lowercase cursive: $\mathcal{l}$ 
+  - Two points with line on top: $\overleftrightarrow{AB}$
 
 ---
 
@@ -31,21 +31,18 @@ I can **name, draw, and label basic parts of geometry.**
 
 ![[Plane Graph.png]]  
 - **Naming a plane:**  
-  - Three points that aren't collinear: `$Plane$ $ABD$`  
-  - Capital cursive letter in a corner: `$Plane$ $\mathcal{R}$`
+
+  - Three points that aren't collinear: $Plane$ $ABD$
+
+  - Capital cursive letter in a corner: $Plane$ $\mathcal{R}$
 
 ---
 
 ### Collinear  
 - **Definition:** Points that lie on the **same line**  
 
-### 🟠 Coplanar  
+### Coplanar  
 - **Definition:** Points that lie on the **same plane**  
 
 ---
 
-### 🔹 Tip / Highlight Ideas for Obsidian
-- Use `==highlight==` to make **key terms pop**  
-  - Example: `==Collinear==` → will appear highlighted in Obsidian  
-- Keep images next to definitions for **visual reference**  
-- Use LaTeX for **mathematical notation** inside `$...$` or `$$...$$`
