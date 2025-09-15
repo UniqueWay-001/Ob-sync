@@ -68,7 +68,7 @@ I can **name, draw, and label basic parts of geometry.**
 ### 🔹 Ray  
 - **Definition:** Part of a line that **starts at an endpoint** and **extends infinitely in one direction**  
 
-![[Ray Graph.png]]  
+![[Ray Graph.png]]
 - **Notation:** $\overrightarrow{AB}$ → starts at **A**, goes through **B**  
 
 ---
@@ -76,8 +76,8 @@ I can **name, draw, and label basic parts of geometry.**
 ### 🔸 Opposite Rays  
 - **Definition:** Two rays that share a **common endpoint** and form a **line**  
 
-![[Opposite Rays Graph.png]]  
-- Example: `$ \overrightarrow{AB} $` and `$ \overrightarrow{AC} $` with **common endpoint A**  
+![[Opposite Ray Graph.png]]
+- Example: $\overrightarrow{AB}$ and $\overrightarrow{AC}$ with **common endpoint A**
 
 ---
 
