@@ -11,12 +11,6 @@ I can **define and construct the length and midpoint of segments.**
 ### 🔹 Congruent
 
 - **Definition:** Same **shape** and same **size**.
-    
-
-![[Congruent Segments.png]]
-
----
-
 ### 🔹 Segment Congruence
 
 - **Definition:** If 2 segments have the **same length**, then they are **congruent**.
@@ -33,28 +27,16 @@ I can **define and construct the length and midpoint of segments.**
 ### 📌 Segment Addition Postulate (SAP)
 
 - **Definition:** If point $R$ is between points $P$ and $Q$, then  
-    PR+RQ=PQPR + RQ = PQPR+RQ=PQ
-    
-
-![[Segment Addition.png]]
+    $$\overline{PQ} = \overline{PR} + \overline{RQ}$$
 
 ---
 
 ### 🔹 Midpoint
 
 - **Definition:** The **point** in the **middle** of a segment that divides it into two **congruent parts**.
-    
-
-![[Midpoint Graph.png]]
-
----
-
 ### 🔹 Bisector
 
-- **Definition:** A line, segment, or ray that **intersects a segment at its midpoint**, cutting it in half.
-    
-
-![[Bisector Graph.png]]
+- **Definition:** A line, segment, or ray that **intersects a segment at its midpoint**, cutting it in half
 
 ---
 
@@ -71,9 +53,6 @@ Then:
 $\overline{AC} = \overline{AB} + \overline{BC}$
 	$= 5(2)+3(2)+4$
 	$=20$
-
-![[Midpoint Example.png]]
-
 ---
 
 ### ✅ Summary
