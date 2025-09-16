@@ -7,6 +7,7 @@ I can **name, draw, and label basic parts of geometry.**
 
 ---
 
+
 ###  Point  
 - **Definition:** Names a **location**  
 - **Property:** Has **no size**  

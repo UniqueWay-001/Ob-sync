@@ -12,6 +12,7 @@ I can **define and construct the length and midpoint of segments.**
 
 - **Definition:** Same **shape** and same **size**.
 ### 🔹 Segment Congruence
+[[Section 1-1 Points, Lines, and Planes#🔹 Segment]]
 
 - **Definition:** If 2 segments have the **same length**, then they are **congruent**.
     
@@ -20,12 +21,13 @@ I can **define and construct the length and midpoint of segments.**
 - **Statement:** “Segment $AB$ is congruent to segment $CD$.”
     
 
-![[Segment Congruence.png]]
+![[Congruence Graph.png]]]]
 
 ---
 
 ### 📌 Segment Addition Postulate (SAP)
 
+[[Section 1-1 Points, Lines, and Planes#📌 Postulate]]
 - **Definition:** If point $R$ is between points $P$ and $Q$, then  
     $$\overline{PQ} = \overline{PR} + \overline{RQ}$$
 
