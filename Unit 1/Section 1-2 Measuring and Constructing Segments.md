@@ -62,13 +62,15 @@ I can **define and construct the length and midpoint of segments.**
 
 - Given $B$ is the midpoint of $\overline{AC}$. Find the length of $AC$:
     
-
-$$AB=BC$$
-5x=3x+45x = 3x + 45x=3x+4  
-x=2x = 2x=2$$
+$\overline{AB}=\overline{BC}$
+$5x=3x+4$ 
+$=2x=4$
+$=x=2$
 
 Then:  
-AC=AB+BC=(5)(2)+(3)(2)+4=20AC = AB + BC = (5)(2) + (3)(2) + 4 = 20AC=AB+BC=(5)(2)+(3)(2)+4=20
+$\overline{AC} = \overline{AB} + \overline{BC}$
+	$= 5(2)+3(2)+4$
+	$=20$
 
 ![[Midpoint Example.png]]
 
