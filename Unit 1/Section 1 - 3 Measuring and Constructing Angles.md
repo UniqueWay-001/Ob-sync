@@ -26,6 +26,30 @@ ___
 	
 - **Exterior Angle**: Outside angle
 	
-- **Acute Angle:** less than $90^\circ$.
+- **Acute Angle:** Less than $90^\circ$.
 	
-- **Right Angle:** $90$
+- **Right Angle:** $90^\circ$
+	
+- **Obtuse Angle:** More than $90^\circ$ but less than $180^\circ$
+	
+- **Strait Angle:** $180^\circ$
+
+___
+
+### 🔹 Naming Angles
+
+- By the **vertex** (e.g., ∠B)
+    
+- By **three letters** with vertex in the middle (e.g., ∠ABC)
+    
+- By a **number** (e.g., ∠2)
+$$m∠ABC=measure of ∠ABC$$
+___
+
+### Postulate 1-3-1: Angle Addition Postulate (∠ Add Post)
+
+If point **S** is in the **interior** of ∠PQR, then:
+
+$$m∠PQS+m∠SQR=m∠PQR$$
+
+![[Angle Addition Postulate.png]]
