@@ -11,4 +11,10 @@ ___
 ### 🔹Angle Congruence
 
 - **Definition***: If **2 angles** have the **same measure**, then they are congruent.
-- 
+	
+- **Labels**: 
+![[Congruent Angles graph.png]]
+[[Section 1-2 Measuring and Constructing Segments#🔹 Congruent]]
+
+___
+
