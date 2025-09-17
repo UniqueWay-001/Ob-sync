@@ -12,9 +12,20 @@ ___
 
 - **Definition***: If **2 angles** have the **same measure**, then they are congruent.
 	
-- **Labels**: 
+- **Labels**: $AB$
 ![[Congruent Angles graph.png]]
 [[Section 1-2 Measuring and Constructing Segments#🔹 Congruent]]
 
 ___
 
+### 🔹Types of Angles
+
+- **Vertex**: Point of the angle.
+	
+- **Interior Angle**: Inside angle
+	
+- **Exterior Angle**: Outside angle
+	
+- **Acute Angle:** less than $90^\circ$.
+	
+- **Right Angle:** $90$
