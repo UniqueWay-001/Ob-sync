@@ -46,10 +46,18 @@ ___
 $$m∠ABC=measure of ∠ABC$$
 ___
 
-### Postulate 1-3-1: Angle Addition Postulate (∠ Add Post)
+### Postulate 1- 3- 3: Angle Addition Postulate (∠ Add Post)
 
 If point **S** is in the **interior** of ∠PQR, then:
 
 $$m∠PQS+m∠SQR=m∠PQR$$
 
-![[Angle Addition Postulate.png]]
+![[Angle Addition Postulate Graph.png]]
+
+___
+
+### 🔹 Angle Bisector
+
+A **ray that divides an angle into two equal parts.**
+
+![[Angle Bisector.png]]
