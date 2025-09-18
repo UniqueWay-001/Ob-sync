@@ -1,3 +1,4 @@
+[[Unit 1]]
 # 📐 Geometry Notes
 
 ## Section 1-2: Measuring and Constructing Segments
@@ -48,6 +49,8 @@ ___
 
 ### Postulate 1- 3- 3: Angle Addition Postulate (∠ Add Post)
 
+[[Section 1-1 Points, Lines, and Planes#📌 Postulate]]
+
 If point **S** is in the **interior** of ∠PQR, then:
 
 $$m∠PQS+m∠SQR=m∠PQR$$
@@ -60,4 +63,6 @@ ___
 
 A **ray that divides an angle into two equal parts.**
 
-![[Angle Bisector.png]]
+![[Angle Bisector Graph.png]]
+
+___
