@@ -16,4 +16,11 @@ ___
 
 ## 🔹Linear Pair
 
-- **Definition:** A pair of [[Section 1-4 Pairs of Angles#🔹Adjacent Angles]] whose **non common** sides are [[]]
+- **Definition:** A pair of [[Section 1-4 Pairs of Angles#🔹Adjacent Angles]] whose **non common** sides are [[Section 1-1 Points, Lines, and Planes#🔸 Opposite Rays]].
+- ![[Linear Pair Graph.png]]
+___
+
+### 🔹Complimentary  and Supplementary Angles
+
+- **Complimentary:** Two angles whose measures add up to $90^\circ$ 
+- Supplementary:**
