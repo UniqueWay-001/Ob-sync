@@ -12,16 +12,23 @@ I can **name, draw, and label basic parts of geometry.**
 ###  Point  
 - **Definition:** Names a **location**  
 - **Property:** Has **no size**  
+```geometry
+Point A (200, 200)
+```
 
-![[Point Graph.png]]  
-- LaTeX: $Point$ $A$ or just $A$.
 
+
+ $Point$ $A$ or just $A$
 ---
 
 ### Line  
 - **Definition:** A **straight path** that has **no thickness** and **never ends.**  
 
-![[Line Graph.png]]  
+```geometry
+Point A (100, 100)
+Point B (200, 300)
+Line L A B
+```
 - **Naming a line:**  
   - Lowercase cursive: $\mathcal{l}$ 
   - Two points with line on top: $\overleftrightarrow{AB}$
@@ -32,6 +39,13 @@ I can **name, draw, and label basic parts of geometry.**
 - **Definition:** A **flat surface** with **no thickness** that **extends forever.**  
 
 ![[Plane Graph.png]]  
+```geometry
+Point A (300, 200)
+Point C (100, 200)
+Line L A C
+Midpoint B A C
+Point D (300, 300)
+```
 - **Naming a plane:**  
 
   - Three points that aren't collinear: $Plane$ $ABD$
