@@ -1,4 +1,4 @@
-[[[Unit 1]]]
+[[Unit 1]]]
 
 # Section 1-4: Pairs of Angles
 ---
@@ -23,4 +23,10 @@ ___
 ### 🔹Complimentary  and Supplementary Angles
 
 - **Complimentary:** Two angles whose measures add up to $90^\circ$ 
-- Supplementary:**
+- **Supplementary:** Two angles whose measures add to to $180^\circ$.
+---
+
+## Vertical Angles
+
+- **2 non adjacent angles** [[Section 1-4 Pairs of Angles#🔹Adjacent Angles]] formed by **2 intersecting Lines** [[Section 1-1 Points, Lines, and Planes#📐 Geometry Notes#Line]]
+![[Vertical Angles Graph.png]]
